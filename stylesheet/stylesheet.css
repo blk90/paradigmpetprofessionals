@@ -8,7 +8,7 @@ h1 {
     text-align: center;
     font-weight: bold;
     font-size: 45px;
-    padding-top: 2cm;
+    /*padding-top: 2cm;*/
 }
 
 .topnav {
@@ -31,7 +31,7 @@ h1 {
   color: black;
 }
 
-.topnav .search-container {
+/*.topnav .search-container {
   float: right;
 }
 
@@ -57,11 +57,11 @@ h1 {
 
 .topnav .search-container button:hover {
   background: #ccc;
-}
+}*/
 
-.topnav input[type=text] {
+/*.topnav input[type=text] {
     border: 1px solid #ccc;  
-  }
+  }*/
 .form {
     display: block;
     color: black;
